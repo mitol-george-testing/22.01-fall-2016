@@ -1,0 +1,11 @@
+---
+content_type: resource
+description: "This resource contains information regarding introduction to nuclear\
+  \ engineering and ionizing radiation: Banana data.\r\n"
+file: null
+file_location: /coursemedia/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0263c0cdd83c1197b4cb40f3b94b1331_ps4_banana_data.zip
+file_type: application/zip
+resourcetype: Other
+title: ps4_banana_data.zip
+uid: 0263c0cd-d83c-1197-b4cb-40f3b94b1331
+---
